@@ -49,7 +49,7 @@ Fundação
 
 ### 🧪 Etapa 2 — Presencial
 
-Aplicação
+
 
 * Análise exploratória
 * Visualização de dados
