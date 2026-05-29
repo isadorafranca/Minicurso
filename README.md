@@ -50,10 +50,11 @@ Fundação
 ### 🧪 Etapa 2 — Presencial
 
 
-
-* Análise exploratória
-* Visualização de dados
-* Miniprojeto com dados reais
+* Conhecendo o Kaggle
+* Análise exploratória com o google colaboratory https://colab.research.google.com/
+* ETL
+* Trabalhando com o Power BI
+* Miniprojeto com dados reais ( https://www.kaggle.com/datasets/sazidthe1/global-air-pollution-data )
 
 ---
 
