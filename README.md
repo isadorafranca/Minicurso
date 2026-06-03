@@ -132,15 +132,7 @@ com sentido
 
 ## 🌱 Ideia central
 
-dados ambientais são sinais
-
-um número fora do lugar
-pode ser erro
-
-ou pode ser alerta
-
-quem trabalha com dados
-aprende a escutar
+Dados ambientais são sinais que podem virar alertas
 
 ---
 
@@ -167,8 +159,7 @@ ou manda um pull request
 
 ## 📬 Autoria
 
-Isadora
-Ecotoxicogenômica • Dados • Conservação
+Isadora Teresa França Pereira
 
 ---
 
