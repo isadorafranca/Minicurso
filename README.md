@@ -52,6 +52,8 @@ Fundação
 
 * Conhecendo o Kaggle
 * Análise exploratória com o google colaboratory https://colab.research.google.com/
+* https://app.powerbi.com/view?r=eyJrIjoiMDMyMGZiYjctYWMxNi00NDBkLTlkODktNjUwMmZlNDAyZGRjIiwidCI6IjRjM2I0MTEwLWVmN2UtNGRiZC05ZjM3LThjZTI4MDAwOGRhNCJ9
+* https://www.flaticon.com/
 * ETL
 * Trabalhando com o Power BI
 * Miniprojeto com dados reais ( https://www.kaggle.com/datasets/sazidthe1/global-air-pollution-data )
