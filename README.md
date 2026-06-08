@@ -171,4 +171,5 @@ Uso educacional livre
 compartilhe
 cite
 espalhe
+
 PEREIRA, Isadora Teresa França. Minicurso. 2026. Repositório de código GitHub. Disponível em: https://github.com/isadorafranca/Minicurso. Acesso em: .
